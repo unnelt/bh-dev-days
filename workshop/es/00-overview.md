@@ -7,14 +7,14 @@
 > **Nivel:** Intermedio  
 > **Stack:** Astro / Node.js / TypeScript
 
-Construye una aplicación retro estilo arcade para comparar contribuciones de GitHub — **Mona Mayhem** — mientras aprendes todo el espectro de flujos de trabajo de GitHub Copilot. El taller soporta **dos pistas**: una experiencia en VS Code y una experiencia con GitHub Copilot CLI.
+Construye una aplicación retro estilo arcade para comparar contribuciones de GitHub — **Mona Mayhem** — mientras aprendes todo el espectro de flujos de trabajo de GitHub Copilot. El taller ofrece **dos itinerarios**: uno para VS Code y otro para GitHub Copilot CLI.
 
 ---
 
-## 🎯 Elige Tu Pista
+## 🎯 Elige tu itinerario
 
-- **Pista VS Code** — quédate en el editor y practica Chat, Plan Mode, Agent Mode, agentes en segundo plano y el ciclo de revisión integrado.
-- **Pista CLI** — quédate en la terminal y practica `copilot`, contexto con `@file`, `/plan`, ediciones autónomas, `/fleet`, `/delegate` y `/review`.
+- **Itinerario de VS Code** — quédate en el editor y practica Chat, Plan Mode, Agent Mode, agentes en segundo plano y el ciclo de revisión integrado.
+- **Itinerario del CLI** — quédate en el terminal y practica `copilot`, contexto con `@file`, `/plan`, ediciones autónomas, `/fleet`, `/delegate` y `/review`.
 
 Sigue la pista que coincida con tu flujo de trabajo preferido.
 
